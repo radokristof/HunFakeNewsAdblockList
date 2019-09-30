@@ -1,4 +1,4 @@
-# HunFakeNewsAdblockList
+# Hungarian FakeNews Adblock List
 AdBlock List for Hungarian Fake News Domains
 
 ## How to use
